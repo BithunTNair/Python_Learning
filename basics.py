@@ -1,5 +1,5 @@
 name= 'Bithun';
 print(name);
 
-list =['Bithun',"Athira",'Ramesh'];
+list =['Bithun',"Amal",'Ramesh'];
 print(len(list))
